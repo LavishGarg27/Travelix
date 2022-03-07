@@ -18,4 +18,12 @@ Let's looks at the UI of our site...
 
 ![Screenshot (4800)](https://user-images.githubusercontent.com/78440942/156974969-66504ad5-b89d-4f6b-b452-45675e39ae18.png)
 
+Azure website hosting...
+
+![Screenshot (4801)](https://user-images.githubusercontent.com/78440942/156977301-fbb94b28-378c-4953-8f90-7133e187936c.png)
+
+
+![Screenshot (4802)](https://user-images.githubusercontent.com/78440942/156977320-b2480152-1a81-4ce1-8ce1-5bdac5be6e02.png)
+
+
 
